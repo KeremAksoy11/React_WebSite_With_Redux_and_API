@@ -1,0 +1,2 @@
+# React_WebSite_With_Redux_and_API
+ This program was written using the API. It contains educational purpose. The program sends requests to the API and matches them according to their id numbers. Requests are made only once, the rest of the requests are stored in memory.  Bu program API kullanılarak yazılmıştır. Eğitimsel amaç içermektedir. Program API'ya istek atar ve id numaralarına göre eşleştirme yapar. İstekler sadece bir kez atılır geri kalan istekler hafızada saklanır 
